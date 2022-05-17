@@ -1,0 +1,3 @@
+- node fundamentals
+- extenting js with node 
+- working with npm

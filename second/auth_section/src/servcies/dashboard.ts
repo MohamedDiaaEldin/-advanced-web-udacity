@@ -1,0 +1,1 @@
+/// modal alternative for reading join data

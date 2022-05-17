@@ -1,0 +1,15 @@
+{
+  "name": "first_package",
+  "version": "1.0.0",
+  "description": "test npm project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prettier": "prettier --config .prettierrc ./*.js --write"
+  },
+  "author": "mohamed",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^2.6.2"
+  }
+}
