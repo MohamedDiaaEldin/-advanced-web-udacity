@@ -1,0 +1,19 @@
+Glossary
+New Terms in This Lesson
+Database Backups: A copy of your database taken on a regular interval to avoid losing data if something goes wrong.
+
+Publicly available Database: A database could be made only available within a private internet network or it could be available on the open web.
+
+Availability zones: Defines an area where AWS has a multitude of data-centers. You can configure a database to be physically in multiple Availability Zones.
+
+Elastic Beanstalk Environments: Pre-configured servers that can be deployed easily with all the necessary software to run applications.
+
+Elastic Beanstalk Application: An application that you upload into the Elastic Beanstalk Environment.
+
+Access Control List (ACL) policy. This is a file written in JSON or yml that can be used to grant or restrict access to an S3 bucket. This is also used in other AWS services
+
+Object Storage: Storage that behaves differently than a file system organizing files as objects.
+
+Metadata: Data about data. Includes information about files such as owner, date created, and other important information.
+
+S3 - Simple Storage Service: AWS's file storage solution that drives many different connections between AWS services.
