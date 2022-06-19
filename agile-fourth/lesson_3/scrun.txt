@@ -1,0 +1,11 @@
+Scrum Framework
+Scrum is by far the most common Agile Framework.
+
+The features are delivered in iterations known as Sprints.
+The Team conducts Daily Stand-Ups in which they provide updates to each other.
+Retrospectives are conducted to identify opportunities for improvement at the end of each Sprint.
+Specific roles, as well as certain Ceremonies are recommended in the Scrum Framework.
+Scrum Pillars
+Transparency - Transparency builds trust and openness both within the Agile Team, as well as with those stakeholders outside the Agile Team.
+Inspection - Inspection involves the business users reviewing the Agile Team’s progress towards the defined goals.
+Adaptation - Agile Teams adjust and adapt based on opportunities for improvement that are identified either by the Agile Team themselves or through feedback from others outside the team

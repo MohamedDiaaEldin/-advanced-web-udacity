@@ -1,0 +1,7 @@
+5 Scrum Values
+Focus - Everyone in the Team focuses on the work to be completed in order to deliver the Sprint goals.
+Courage - Members of the Team need to have the courage to do what is right to ensure the Sprint goals are met.
+Openness - The Team and its stakeholders agree to a culture of openness.
+Commitment - Commitments build trust within the Agile Team members, as well as with the business users and leaders.
+Respect - Respect is a key in Scrum for a high achieving Team.
+

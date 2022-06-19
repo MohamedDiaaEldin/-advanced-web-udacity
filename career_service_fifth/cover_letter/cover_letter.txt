@@ -1,0 +1,38 @@
+- not for just have a job but to build my career
+- it will help to be better employee for the future for my long term and proficienal goals
+- mention area that i need to practce and learn 
+- capabale and fast learner how can pick up new skills squikly 
+
+
+- Itroduction 
+	- include my purpuse and profient metion (i am excited to apply for the position of software developer at Dell)
+	- focuse in why company want me and why i want the company ( it will add a lot to me )
+	- execting about the company 
+
+
+   The introduction is good beacuse ,  which is taken from the previous lesson's Artsy Udacian cover letter, is good for the following reasons:
+
+	* Artsy clearly identifies the position he is applying for. Artsy explicitly states the job title (Front-End Web Developer) and company (Udacity) that he is submitting his cover letter to, whereas the fi	    rst example leaves this vague
+	* Artsy explains why he is interested in this specific job or company/organization. He does so by connecting his own passion—"creating attractive website design"—to the company mission and how he can con	    tribute: by "creating an online experience that can inspire a wider audience" to "contribute to the mission of democratizing education." While the first example does use the language "I am interested in 	       your web developer job posting," it doesn't actually explain why they're interested..
+
+- Body
+
+	- focuse on things only speacilly good at 
+ 	- qulifcation and goals 
+	- i've build a varity of web applications 
+	- explain projects worked on and what is the futures i worked on by descriping what languages and framework do i use 
+	- take about you have done somthing that never done before - ( working with files to save children images - use cookies and try to apply best practice)
+	- renforce my goals 
+	
+	udacity botes 
+	Artsy did the following well:
+	
+	Artsy targeted the cover letter to the job posting. He does so by describing previous experience such as improving the online auction web application's PageSpeed score that is relevant to the job duties 	   from the job posting, described as "optimize application for maximum speed and scalability."
+	Artsy detailed individual work experiences. Rather than listing general job duties, he focused on describing personal contributions such as recommending website improvements based on visitor feedback which clearly demonstrates what he can uniquely bring to the position.
+	Artsy chose examples that showcase both his technical and soft skills. A job posting will ask for a combination of these two types of skills, so it's important that your cover letter also addresses both! 	For example, Artsy uses the Nanodegree program to highlight his development of technical skills, while his reference to working with a museum website developer shows that he can be a collaborative team member.
+	Remember: Cover letters are sometimes read before the resume, so the cover letter needs to be strong on its own and not just refer back to resume content. You also want to avoid making your cover letter 	   just another version of your resume; it should bring more to the employer's understanding of you as a job candidate!
+
+
+
+
+

@@ -1,0 +1,13 @@
+Agile Frameworks are Enablers that Bring to Fruition the Value of Agile
+This includes:
+
+Focusing more on the individuals and interactions; ultimate determining factor for the success of a product are the resources on the Agile product delivery team.
+Do not force Agile unnecessarily; Teams that are already performing well can be gradually introduced to additional Agile practices based on a specific Agile Framework.
+Refined user stories are important; Agilists work with Product Owners to ensure the user stories have been sufficiently refined for the Agile Team to proceed.
+Respect the backlog; Agilists focus on ensuring the Agile Team does not over-commit to what can be accomplished in each iteration, especially during the first few iterations.
+
+
+Implementing a Specific Agile Framework is a Fine Balancing Act
+Must adapt based on each organization’s unique culture and context.
+Experts have to regularly remind both leaders and the Agile Team to remember that there is no one way to execute Agile practices in an organization.
+Agile principles and practices are by their very nature to be adapted as needed.

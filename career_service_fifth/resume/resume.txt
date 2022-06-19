@@ -1,0 +1,7 @@
+Your resume should include the following sections:
+
+Heading
+Skills
+Projects
+Experience
+Education

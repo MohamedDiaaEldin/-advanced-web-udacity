@@ -1,0 +1,15 @@
+The 12 Agile Principles
+The Agile Manifesto’s 4 paired core values drive the 12 Agile Principles. Let's look at the principles in detail.
+
+Our highest priority is to satisfy the customer through early and continuous delivery of valuable software. The goal of product development is the development of successful products.
+Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage. Due to the dynamic competitive landscape, requirements can and will change throughout product development.
+Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter time scale. Frequent and iterative delivery of working product provides the business with practical feedback.
+Business people and developers must work together daily throughout the project. The Product Owner and the Agile Team adopt practices that ensure inclusive and joint practices.
+Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done. Agile leaders build Agile teams with skilled resources who are willing to work together collaboratively with a growth mindset.
+The most efficient and effective method of conveying information to and within a development team is face-to-face conversation. For a product development team to succeed its members must communicate and collaborate effectively.
+Working software is the primary measure of progress. The primary measure of product development should be the delivery of working product increments which meet the evolving needs of the business.
+Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely. A highly skilled team simply just cannot be expected to successfully develop a product by compelling people to work overtime for extended periods.
+Continuous attention to technical excellence and good design enhances agility. Built-in quality practices have enormous benefits. It allows for easier maintenance and scalability of the product.
+Simplicity - the art of maximizing the amount of work not done - is essential. With the guidance of the Product Owner, Agile Teams focus on high value activities, which allows them to focus on the high business value needs.
+The best architectures, requirements, and designs emerge from self-organizing teams. This is a critical principle of the agile world to ensure that emerging and effective architectures, requirements, and designs are built into the product development life cycle to maximize technical excellence.
+At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly. Finding concrete opportunities for improvement is a continual effort.
